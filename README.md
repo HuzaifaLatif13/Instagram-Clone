@@ -29,7 +29,7 @@ A fully functional Instagram clone built using **Flutter**, **Firebase**, **Clou
 - Firebase project setup
 - Cloudinary account for media storage
 
-## Tech Stack 📸
+## Screenshots 📸
 ---
 Homepage, Post Details, Searching, Users
 ---
