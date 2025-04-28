@@ -30,7 +30,9 @@ A fully functional Instagram clone built using **Flutter**, **Firebase**, **Clou
 - Cloudinary account for media storage
 
 ### Screenshots
-![image](https://github.com/user-attachments/assets/70c8bd0b-d3d8-4176-86c0-8f067720dd20) ![image](https://github.com/user-attachments/assets/eb4e1289-209e-4d9a-8829-7216eae37287) ![image](https://github.com/user-attachments/assets/b46209dd-acaf-48e8-868c-e5c72542d1b2) ![image](https://github.com/user-attachments/assets/b0ccad6a-e427-47b0-85d0-0047065147f3) ![image](https://github.com/user-attachments/assets/06170c9d-fbda-4a81-9897-725d8c79a087) ![image](https://github.com/user-attachments/assets/e9d3ec47-eb9c-4f9b-9929-0b77fd001a98) ![image](https://github.com/user-attachments/assets/c54f497a-6474-4d85-9248-43a3ac9977e2)
+![1](https://github.com/user-attachments/assets/098ef0e8-42a6-48bf-a364-ee841cc87c38)
+![2](https://github.com/user-attachments/assets/0c1cd864-c7d7-4ebe-99e7-a0dbd91e0542)
+
 
 
 
