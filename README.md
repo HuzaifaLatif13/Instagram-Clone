@@ -29,17 +29,18 @@ A fully functional Instagram clone built using **Flutter**, **Firebase**, **Clou
 - Firebase project setup
 - Cloudinary account for media storage
 
-### Screenshots
+## Tech Stack 📸
+---
 - Homepage, Post Details, Searching, Users
-- 
+---
 ![1](https://github.com/user-attachments/assets/098ef0e8-42a6-48bf-a364-ee841cc87c38)
 ---
 - Profile, Edit Profile, Connections(Followers, Followings), Other's account
-- 
+--
 ![2](https://github.com/user-attachments/assets/0c1cd864-c7d7-4ebe-99e7-a0dbd91e0542)
 ---
 - Messenger, Chatting, Posting, Story
-- 
+-- 
 ![c3](https://github.com/user-attachments/assets/6d8efcac-d7ad-49b1-bf88-5ec824ebff27)
 ---
 
